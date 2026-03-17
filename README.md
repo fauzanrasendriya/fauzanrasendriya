@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Muhammad Fauzan Nur Rasendriya, a Statistics and Data Science student at IPB University.<br><br>- 💻 Interested in Data Science and AI<br>- 🌱 Learning: Machine Learning, Cloud Computing, and Databases<br>- 🛠️ Python | R</p>
+<p align="left">I'm Muhammad Fauzan Nur Rasendriya, a Statistics and Data Science student at IPB University.<br><br>- 💻 Interested in Data Science and AI<br>- 🌱 Learning: Machine Learning, Cloud Computing, and Databases</p>
 
 ###
 
