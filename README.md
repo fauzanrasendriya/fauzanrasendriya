@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Muhammad Fauzan Nur Rasendriya, a Statistics and Data Science student at IPB University.<br><br>- 💻 Interested in Data Science, Machine Learning, and AI<br>- 🌱 Learning: Machine Learning, Deep Learning, and Data Storytelling<br>- 🛠️ Python | R | SQLite</p>
+<p align="left">I'm Muhammad Fauzan Nur Rasendriya, a Statistics and Data Science student at IPB University.<br><br>- 💻 Interested in Data Science and AI<br>- 🌱 Learning: Machine Learning, Cloud Computing, and Databases<br>- 🛠️ Python | R</p>
 
 ###
 
@@ -42,6 +42,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -53,10 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
 </div>
 
 ###
