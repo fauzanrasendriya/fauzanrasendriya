@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpseTVkd3lxdXY4cDh0NWpsdGIxbzI5Zmhvc3Yzdms3MWxtdzBybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpseTVkd3lxdXY4cDh0NWpsdGIxbzI5Zmhvc3Yzdms3MWxtdzBybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif"  />
 </div>
+
+###
+
+<h1 align="center">Hi, I'm Fauzan 👋</h1>
 
 ###
 
@@ -21,15 +25,11 @@
 
 ###
 
-<h1 align="center">Hi, I'm Fauzan 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Muhammad Fauzan Nur Rasendriya, a Statistics and Data Science student at IPB University.<br><br>- 💻 Interested in Data Science and AI<br>- 🌱 Learning: Machine Learning, Cloud Computing, and Databases</p>
+<p align="left">I'm Muhammad Fauzan Nur Rasendriya, a Statistics and Data Science student at IPB University.<br><br>- 💻 Interested in Data Science and AI<br>- 🌱 Learning: Machine Learning, Deep Learning and Data Storytelling</p>
 
 ###
 
@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
